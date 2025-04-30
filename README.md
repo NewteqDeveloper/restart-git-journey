@@ -1,3 +1,6 @@
+# Migrated
+Moved to: https://codeberg.org/newteq_github_archives/windows-git-journey-reset
+
 # What is restart-git-journey
 
 This project is to help you with simply PowerShell scripts that can do one of the following:
